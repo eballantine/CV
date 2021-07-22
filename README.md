@@ -1,77 +1,80 @@
-## Your Name
+## Lizzy Ballantine
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+A Makers Academy student. I've spent the last 4 years working in tech in non-technical disciplines. I am excited to learn the tech, make things work, and **be the do-er**.
 
 ## Projects
 
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Project1**            | Description. | Tech, tools |
+| **Project2** | Description. | Tech, tools            |
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Doctor Care Anywhere**
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+_Junior Product Manager (Jan 2021 - July 2021)_
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+Leading an Agile development team, responsible for the virtual consultation experience:
+- Leading the procurement and integration of a new video API
+- Creating and prioritising tickets in the development backlog. Working with developers and QA to ensure thorough Acceptance Criteria.
+- Presenting and leading regular workshops and meetings across the business, ensuring buy-in
 
-- Any experience relevent to software development
+**So Energy**
+
+_Product & Experience Analyst (Oct 2019 - Jan 2021)_
+
+Leading a cross-functional, Agile team responsible for an appointment booking tool and a suite of purpose built, in-house tools:
+- Competitor analysis, user testing and user behaviour analysis
+- Product discovery, wireframing, and prototyping, taking a keen interest in learning UX best practices
+- Defining product vision and strategy for my products
+- Creating and prioritising tickets in the backlog, working in 2-week Sprints
+
+_Customer Experience Analyst (Jan 2017 - Oct 2019)_
+
+Responsible for the lifecycle from Root Cause Analysis of successes and complaints, through to designing, implementing, and assessing process and UX changes.
+- Liaising with our external web developers to implement changes, then working closely with our in-house developers (the first joined in Dec 2018)
+- Working with our Data team to collate data, create and deliver reports to our regulator Ofgem, as well as to other external stakeholders
+- Copywriter for all website content and customer communications (letter, email, SMS).
+- Responsible for creating, delivering and maintaining all employee training, until the arrival of a dedicated Trainer (July 2019)
+
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
-
--STAR
--What was the situation/task? (ST)
-
--How was the skill used?
-
--What did you do? (action)
-
--What was the result?
+#### Learner (and Teacher)
 
 
-#### This Skill
+#### Communicator
 
-- Experience
-- Achievements
-- Evidence (STAR)
 
-#### Another Skill
+#### Problem Solver
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+#### User Focused
+
+
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy (July 2021 to Oct 2021)
+TBC
+ 
 
-#### Your University / College (start_date to end_date)
+#### King’s College London (2015 to 2016)
+PGCE - Physics with Mathematics 
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
 
-#### Any other qualifications
+#### University of Kent (2010 to 2014)
+BSc (Hons) 2:2 - Astronomy, Space Science and Astrophysics 
 
-That in some arguable way make you a better software developer or well-rounded person
 
-## Hobbies
+#### Blatchington Mill School and Sixth Form (2003 - 2010)
+A Level: Maths (A), Physics (B), Business Studies (A)        
+AS: Chemistry (A), French (A), Ethics & Philosophy (B)                    
+GCSE: 12x A*-B including Maths (A*) and English (A*)
 
-Any cool stuff that makes you a super part of a software development team
+## Hobbies and Interests
+
+- Long-distance runner. Completed many half-marathons, still working on a full.
+- Vegan for over a decade, and so by necessity also a keen home cook!
+- Reader. Recommendations always welcome 📚
